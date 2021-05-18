@@ -1,5 +1,5 @@
 # SlickMagento
-Magento 2 module to using slick https://kenwheeler.github.io/slick/ in magento block
+Magento 2 module to using slick https://kenwheeler.github.io/slick/ in magento block or page 
 
 ## Install
 - Download this module

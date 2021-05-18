@@ -1,4 +1,4 @@
-define(['jquery','Winkel_Carousel/libs/slick/slick'], function($,slick){
+define(['jquery','Hprasetyou_SlickMagento/libs/slick/slick'], function($,slick){
     'use strict';
 
     return function(config, element){

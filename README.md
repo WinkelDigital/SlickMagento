@@ -6,6 +6,7 @@ Magento 2 module to using slick https://kenwheeler.github.io/slick/ in magento b
 - create directory Hprasetyou under app/code on your magento 2 project
 - move this module inside app/code/Hprasetyou
 - this module path sould be < magento root >/app/code/Hprasetyou/SlickMagento
+- run php bin/magento setup:upgrade
 
 ### Usage
 Usage is pretty simple, just call data-mage-init='{"Hprasetyou_SlickMagento/js/carousel":{}}' where you want to init your slick carousel. You can pass slick option directly to the markup. Please refer this to see available options: https://kenwheeler.github.io/slick/#settings
